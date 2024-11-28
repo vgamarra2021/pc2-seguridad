@@ -1,0 +1,28 @@
+# Ignorar archivos compilados de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Configuración de IDEs y editores
+.vscode/
+.idea/
+*.swp
+
+# Archivos de configuración de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Bases de datos temporales
+*.sqlite3
+
+# Archivos específicos del entorno
+.env
+*.env
