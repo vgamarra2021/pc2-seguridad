@@ -1,2 +1,6 @@
 selenium
 jupyter
+opencv-python
+numpy
+requests
+scikit-image
